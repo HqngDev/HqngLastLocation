@@ -3,7 +3,7 @@ plugins {
     kotlin("jvm") version "2.3.10"
 }
 
-group = "dev.arclyx0"
+group = "dev.hqng05"
 version = "v1.0.0"
 
 java {

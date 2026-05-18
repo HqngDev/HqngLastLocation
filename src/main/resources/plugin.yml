@@ -1,6 +1,6 @@
 name: LastLocation
 version: '${version}'
-main: dev.arclyx0.LastLocation
+main: dev.hqng05.lastlocation.LastLocation
 api-version: '1.21'
 depend: [Multiverse-Core]
 description: Auto-save logout position and teleport back with Multiverse safe teleport.

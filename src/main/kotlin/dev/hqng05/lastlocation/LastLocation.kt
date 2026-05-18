@@ -1,4 +1,4 @@
-package dev.arclyx0
+package dev.hqng05.lastlocation
 
 import org.bukkit.plugin.java.JavaPlugin
 import org.mvplugins.multiverse.core.MultiverseCoreApi

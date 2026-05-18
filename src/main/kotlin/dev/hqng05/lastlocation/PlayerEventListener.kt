@@ -1,4 +1,4 @@
-package dev.arclyx0
+package dev.hqng05.lastlocation
 
 import org.bukkit.event.EventHandler
 import org.bukkit.event.EventPriority
@@ -77,8 +77,7 @@ class PlayerEventListener(private val plugin: LastLocation) : Listener {
             dm.saveWorldChangeLocation(from, uuid)
             dm.setFlags(uuid, disconnect = false, worldChange = true)
             player.sendMessage(msg.getMessage(Messages.LOCATION_SAVED_TEMP))
-        } catch (_: Exception) {
-        }
+        } catch (_: Exception) {}
     }
 
 }
