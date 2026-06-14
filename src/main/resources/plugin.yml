@@ -1,4 +1,4 @@
-name: LastLocation
+name: HqngLastLocation
 version: '${version}'
 main: tech.qhuyy.lastlocation.LastLocation
 author: hqng05

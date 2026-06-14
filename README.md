@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📍 LastLocation
+# 📍 HqngLastLocation
 
 **Auto-save logout position & teleport back — for Paper servers with lobby architecture.**
 
@@ -18,7 +18,7 @@
 
 ## ✨ Overview
 
-LastLocation solves a common problem on multi-world servers: when a player logs out in a gameplay world and later reconnects, they typically spawn in the lobby. This plugin records their coordinates and allows them to return to exactly where they left off.
+HqngLastLocation solves a common problem on multi-world servers: when a player logs out in a gameplay world and later reconnects, they typically spawn in the lobby. This plugin records their coordinates and allows them to return to exactly where they left off.
 
 ### Dual-Slot Location System
 
