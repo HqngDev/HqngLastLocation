@@ -1,4 +1,4 @@
-package dev.hqng05.lastlocation
+package tech.qhuyy.lastlocation
 
 import org.bukkit.event.EventHandler
 import org.bukkit.event.EventPriority

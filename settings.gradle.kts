@@ -1,1 +1,1 @@
-rootProject.name = "LastLocation"
+rootProject.name = "HqngLastLocation"

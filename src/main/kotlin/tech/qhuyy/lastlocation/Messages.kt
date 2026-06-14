@@ -1,4 +1,4 @@
-package dev.hqng05.lastlocation
+package tech.qhuyy.lastlocation
 
 enum class Messages(val key: String) {
     NO_PERMISSION_RELOAD("no-permission-reload"),

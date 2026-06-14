@@ -1,4 +1,4 @@
-package dev.hqng05.lastlocation
+package tech.qhuyy.lastlocation
 
 data class SavedLocation(
     val worldName: String,

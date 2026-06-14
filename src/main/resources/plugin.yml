@@ -1,6 +1,8 @@
 name: LastLocation
 version: '${version}'
-main: dev.hqng05.lastlocation.LastLocation
+main: tech.qhuyy.lastlocation.LastLocation
+author: hqng05
+website: https://qhuyy.tech
 api-version: '1.21'
 depend: [Multiverse-Core]
 description: Auto-save logout position and teleport back with Multiverse safe teleport.
@@ -13,13 +15,13 @@ commands:
     aliases: [ll]
 
 permissions:
-  arclyx0.teleport.self:
+  hqngll.teleport.self:
     description: Allows teleporting yourself to your last location
     default: true
-  arclyx0.teleport.others:
+  hqngll.teleport.others:
     description: Allows teleporting another player to their last location
     default: op
-  arclyx0.admin:
+  hqngll.admin:
     description: Admin permission (reload config, includes all other permissions)
     default: op
     children:

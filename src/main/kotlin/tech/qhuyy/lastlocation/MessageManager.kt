@@ -1,4 +1,4 @@
-package dev.hqng05.lastlocation
+package tech.qhuyy.lastlocation
 
 import net.kyori.adventure.text.Component
 import net.kyori.adventure.text.minimessage.MiniMessage

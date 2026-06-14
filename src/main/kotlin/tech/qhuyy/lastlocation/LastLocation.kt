@@ -1,4 +1,4 @@
-package dev.hqng05.lastlocation
+package tech.qhuyy.lastlocation
 
 import org.bukkit.plugin.java.JavaPlugin
 import org.mvplugins.multiverse.core.MultiverseCoreApi

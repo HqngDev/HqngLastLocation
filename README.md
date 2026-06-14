@@ -168,11 +168,11 @@ All messages use [MiniMessage](https://docs.advntr.dev/minimessage/format.html) 
 
 ## 🔑 Permissions
 
-| Permission | Default | Description |
-|---|---|---|
-| `arclyx0.teleport.self` | `true` | Use `/lastlocation` to teleport yourself |
-| `arclyx0.teleport.others` | `op` | Use `/lastlocation <player>` to teleport another player |
-| `arclyx0.admin` | `op` | Use `/lastlocation reload`. Inherits all other permissions. |
+| Permission               | Default | Description |
+|--------------------------|---|---|
+| `hqngll.teleport.self`   | `true` | Use `/lastlocation` to teleport yourself |
+| `hqngll.teleport.others` | `op` | Use `/lastlocation <player>` to teleport another player |
+| `hqngll.admin`           | `op` | Use `/lastlocation reload`. Inherits all other permissions. |
 
 ---
 
